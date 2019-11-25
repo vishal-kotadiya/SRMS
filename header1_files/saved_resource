@@ -1,0 +1,32 @@
+
+var ftGUID_3648576="43468BEA63CBC0";
+var ftConfID_3648576="0";
+var ftParams_3648576="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.w3schools.com%2Fhowto%2Ftryit.asp%3Ffilename%3Dtryhow_css_responsive_header&ft_section=__74009066193564669713473508678981077820&cachebuster=195563.22859368325";
+var ftKeyword_3648576="";
+var ftCustom_3648576="";
+var ftSection_3648576="__74009066193564669713473508678981077820";
+var ftSegment_3648576="";
+var ftSegmentList_3648576=[];
+var ftRuleMatch_3648576="0";
+var ftTimestamp_3648576="1574705973";
+var ftGeoC2_3648576="in";
+var ftGeoState_3648576="gj";
+var ftGeoCity_3648576="botad";
+var ftISP_3648576="reliance jio infocomm limited";
+var ftSpeed_3648576="mobile";
+var ftDMA_3648576="356008";
+var ftLong_3648576="72.5555";
+var ftLat_3648576="23.0378";
+var ftPostal_3648576="380009";
+var ftTimeZone_3648576="530";
+var ftMobileCarrier_3648576="jio";
+var ftImp3648576 = {};
+ftImp3648576.privacy = "x";
+ftImp3648576.guidAge = "0";
+ftImp3648576.impID = "26FB4CC6-EC38-857E-D441-8E68AA3F3254";
+ftImp3648576.duid = "FT:43468BEA63CBC0";
+
+ftImp3648576.ft_tpplid = "";
+ftImp3648576.ft_c = {};
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/364/3648576/2853683/js/j-3648576-2853683.js" id="ftscript_m3648576" name="ftscript_m3648576"></scr'+'ipt>');
